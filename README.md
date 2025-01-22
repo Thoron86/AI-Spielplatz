@@ -1,23 +1,41 @@
 # AI-Spielplatz
 
-Tutorial-Kit zur Unterstützung bei der Entwicklung der Projekte in unserem AI-Spielplatz-Workshop in ScaDS.AI im Mai 2025.
+Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tutorial-Kit, das Sie bei der Entwicklung der Projekte in unserem Workshop unterstützt. Besuchen Sie uns im **Mai 2025** bei **ScaDS.AI**.
 
-Tutorial kit to help in the development of the projects in our AI playground workshop in ScaDS.AI in May 2025.
+Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
 
 *For contributors:* Please respect the folder structure
 
-<html>
-  <head>
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
-    <link
-      rel="stylesheet"
-      as="style"
-      onload="this.rel='stylesheet'"
-      href="https://fonts.googleapis.com/css2?display=swap&amp;family=Inter%3Awght%40400%3B500%3B700%3B900&amp;family=Noto+Sans%3Awght%40400%3B500%3B700%3B900"/>
+## 🚀 What You'll Learn
 
-  <title>AI Spielplatz Workshop</title>
-  <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+- **AI Models** - Learn how to generate text and call functions.
+- **Best Practices** - Learn best practices for building with GPT models.
+- **APIs** - Learn how to search, classify, and compare text.
+- **Audio to Text** - Learn how to turn audio into text.
+- **Visual Computing** - Learn how to detect objects.
+- **Model Training** - Learn how to train a model for your use case.
 
-  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-  </head>
-  </html>
+## 📍 The Venue
+
+The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being finalized, and we will provide more details soon.
+
+## 📅 Workshop Details
+
+- **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
+- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leizig.
+- **🎟️ Registration**: Free.
+
+[📅 Add to Calendar](#) | [🚀 Register Here](#)
+
+## 🎤 Meet Your Mentors
+
+| Mentor  | Contact  | Bio  |
+|---------|---------|------|
+| **Alvaro** | contact@openai.com | AI researcher and creator of ChatGPT |
+| **Oliver** | contact@openai.com | AI researcher and creator of ChatGPT |
+| [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
+
+---
+
+If you have any questions, don't hesitate to use our [contact form](#).
+
