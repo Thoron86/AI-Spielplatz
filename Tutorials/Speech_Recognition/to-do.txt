@@ -1,4 +1,0 @@
-to-do:
-
-1. include other examples of speech recognition
-
