@@ -22,7 +22,7 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 ## 📅 Workshop Details
 
 - **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
-- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leizig.
+- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
 - **🎟️ Registration**: Free.
 
 [📅 Add to Calendar](#) | [🚀 Register Here](#)
