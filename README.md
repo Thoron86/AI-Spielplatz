@@ -32,7 +32,7 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 | Mentor  | Contact  | Bio  |
 |---------|---------|------|
 | **Alvaro** | contact@openai.com | AI researcher and creator of ChatGPT |
-| **Oliver** | [welz@informatik.uni-leipzig.de]((mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
+| **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 ---
