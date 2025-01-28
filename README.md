@@ -17,7 +17,7 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 
 ## 📍 The Venue
 
-The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being finalized, and we will provide more details soon.
+The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being decided, and we will provide more details soon.
 
 ## 📅 Workshop Details
 
