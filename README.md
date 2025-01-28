@@ -15,7 +15,7 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 - **Visual Computing** - Learn how to detect objects.
 - **Model Training** - Learn how to train a model for your use case.
 
-## 🔥 Check our Warming-Up material! [link to that folder, containing ideally a single colab notebook or similar resource with a balanced but not overwhelming variety of examples].
+## 🔥 Check our Warming-Up material! Where you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚 [link to those folders, containing ideally a single colab notebook or similar resource with a balanced but not overwhelming variety of examples].
 
 ## 📍 The Venue
 
