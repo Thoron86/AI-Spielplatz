@@ -15,6 +15,8 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 - **Visual Computing** - Learn how to detect objects.
 - **Model Training** - Learn how to train a model for your use case.
 
+## Check our Warming-Up material! [link to that folder, containing ideally a single colab notebook or similar resource with a balanced but not overwhelming variety of examples].
+
 ## 📍 The Venue
 
 The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being decided, and we will provide more details soon.
