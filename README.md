@@ -17,12 +17,12 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 
 ## 📍 The Venue
 
-The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being finalized, and we will provide more details soon.
+The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being decided, and we will provide more details soon.
 
 ## 📅 Workshop Details
 
 - **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
-- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leizig.
+- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
 - **🎟️ Registration**: Free.
 
 [📅 Add to Calendar](#) | [🚀 Register Here](#)
@@ -31,8 +31,8 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 
 | Mentor  | Contact  | Bio  |
 |---------|---------|------|
-| **Alvaro** | contact@openai.com | AI researcher and creator of ChatGPT |
-| **Oliver** | [welz@informatik.uni-leipzig.de]((mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
+| [**Alvaro**](https://www.linkedin.com/in/alvaro-diaz-ruelas) | diaz.ruelas@cs.uni-leipzig.de | Researcher at Statistical Learning group - ScaDS.AI (Uni-Leipzig) |
+| **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 ---
