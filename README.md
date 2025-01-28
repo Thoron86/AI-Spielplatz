@@ -31,7 +31,7 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 
 | Mentor  | Contact  | Bio  |
 |---------|---------|------|
-| **Alvaro**(https://www.linkedin.com/in/alvaro-diaz-ruelas) | diaz.ruelas@cs.uni-leipzig.de | AI researcher and creator of ChatGPT |
+| [**Alvaro**](https://www.linkedin.com/in/alvaro-diaz-ruelas) | diaz.ruelas@cs.uni-leipzig.de | Researcher at Statistical Learning group - ScaDS.AI (Uni-Leipzig) |
 | **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
