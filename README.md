@@ -4,7 +4,10 @@ Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tut
 
 Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
 
-*For contributors:* Please respect the folder structure
+
+# Melde dich an bei:
+
+https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
 
 ## 🚀 What You'll Learn
 
@@ -37,7 +40,6 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 | **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
-https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
 
 ---
 
