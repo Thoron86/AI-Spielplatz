@@ -44,5 +44,9 @@ scannt diesen QR-Code mit eurem Handy:
 oder clicken [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 ---
 
+# Fragen?
 If you have any questions, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
+
+# FAQ: Frequently Asked Questions
+
 
