@@ -6,6 +6,7 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 
 
 # Melde dich an bei:
+![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
 
 https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
 
