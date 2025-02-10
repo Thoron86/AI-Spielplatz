@@ -4,12 +4,6 @@ Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tut
 
 Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
 
-
-# Melde dich an bei:
-![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
-
-https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
-
 ## 🚀 What You'll Learn
 
 - **AI Models** - Learn how to generate text and call functions.
@@ -42,6 +36,10 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 
+# Melde dich an bei:
+![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
+
+https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
 ---
 
 If you have any questions, don't hesitate to use our [contact form](#).
