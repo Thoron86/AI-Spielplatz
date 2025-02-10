@@ -39,8 +39,8 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 # Melde dich an bei:
 ![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
 
-https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9
+or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 ---
 
-If you have any questions, don't hesitate to use our [contact form](#).
+If you have any questions, don't hesitate to use our [contact form](<iframe src="https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/cNsEft7JwDBjixi7dnHmnS2N" width="750" height="900"></iframe>).
 
