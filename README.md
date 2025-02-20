@@ -4,8 +4,53 @@ Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tut
 
 (The English version is [available here](#AI-Playground))
 
+## 🚀 Was Sie lernen werden
 
+- **KI-Modelle** – Lernen Sie, wie Sie Text generieren und Funktionen aufrufen.
 
+- **Best Practices** – Lernen Sie Best Practices zum Erstellen mit GPT-Modellen.
+
+- **APIs** – Lernen Sie, wie Sie Text suchen, klassifizieren und vergleichen.
+
+- **Audio zu Text** – Lernen Sie, wie Sie Audio in Text umwandeln.
+
+- **Visual Computing** – Lernen Sie, wie Sie Objekte erkennen.
+
+- **Modelltraining** – Lernen Sie, wie Sie ein Modell für Ihren Anwendungsfall trainieren.
+
+## 📍 Der Veranstaltungsort
+
+Der AI-Playground findet bei **ScaDS.AI** statt, dem KI-Forschungszentrum der **Universität Leipzig**. Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
+
+## 📅 Workshop-Details
+
+- **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. Der Tagesplan wird im April verfügbar sein.
+- **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
+- **🎟️ Anmeldung**: Kostenlos.
+- **🗣 Sprachen**: Deutsch und Englisch.
+
+[📅 Zum Kalender hinzufügen](#) | [🚀 Hier anmelden](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
+
+## 🔥 Schaut euch unser Warming-Up-Material an!
+Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vom Stil des Workshops machen, bevor ihr mit den Basics loslegt 📚. [Zum Warming-Up-Material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
+
+## 🎤 Lernen Sie Ihre Mentoren kennen
+
+| Mentor | Kontakt | Biografie |
+|---------|---------|------|
+| [**Alvaro**](https://www.linkedin.com/in/alvaro-diaz-ruelas) | [diaz.ruelas@cs.uni-leipzig.de](mailto:diaz.ruelas@cs.uni-leipzig.de) | Forscher bei der Gruppe für statistisches Lernen – ScaDS.AI (Uni-Leipzig) |
+| **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Wissenschaftlicher Mitarbeiter (Team Living Lab) & KI-Enthusiast :) |
+| [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Wissenschaftlicher Mitarbeiter und Masterstudent |
+
+## 🧠 Aufgeregt? Bereit, mit KI zu spielen?
+Sie sind herzlich eingeladen, sich uns anzuschließen. Scannen Sie diesen QR-Code, um sich anzumelden
+
+![QRcode_Anmeldeformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
+
+oder klicken Sie [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
+
+# 🤔 Fragen?
+Wenn Sie Fragen haben, zögern Sie nicht, unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) zu verwenden.
 
 
 
@@ -42,18 +87,18 @@ Here you can find some exciting sources of inspiration and get an idea of the st
 
 | Mentor  | Contact  | Bio  |
 |---------|---------|------|
-| [**Alvaro**](https://www.linkedin.com/in/alvaro-diaz-ruelas) | diaz.ruelas@cs.uni-leipzig.de | Researcher at Statistical Learning group - ScaDS.AI (Uni-Leipzig) |
+| [**Alvaro**](https://www.linkedin.com/in/alvaro-diaz-ruelas) | [diaz.ruelas@cs.uni-leipzig.de](mailto:diaz.ruelas@cs.uni-leipzig.de) | Researcher at Statistical Learning group - ScaDS.AI (Uni-Leipzig) |
 | **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Research assistant (Team Living Lab) & ai enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 
-## 🧠 Excited? Ready to play with AI? Register now! 
-Scan this QR code to register
+## 🧠 Excited? Ready to play with AI? 
+You're welcome to join us, scan this QR code to register
 
 ![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
 
 or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
----
+
 
 # 🤔 Questions?
 If you have any questions, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
