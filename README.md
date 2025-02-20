@@ -50,8 +50,9 @@ Sie sind herzlich eingeladen, sich uns anzuschließen. Scannen Sie diesen QR-Cod
 oder klicken Sie [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 # 🤔 Fragen?
-Wenn Sie Fragen haben, zögern Sie nicht, unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) zu verwenden.
+Wenn Sie Fragen haben, lesen Sie unsere [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). Wenn Ihre Frage nicht dabei ist, können Sie gerne unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) verwenden.
 
+$~~~~~$
 
 
 # AI-Playground
@@ -101,5 +102,5 @@ or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/em
 
 
 # 🤔 Questions?
-If you have any questions, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
+If you have any questions, check our [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). If your question is not there, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
 
