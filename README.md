@@ -2,6 +2,15 @@
 
 Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tutorial-Kit, das Sie bei der Entwicklung der Projekte in unserem Workshop unterstützt. Besuchen Sie uns im **Mai 2025** bei **ScaDS.AI**.
 
+(The English version is [available here](#AI-Playground))
+
+
+
+
+
+
+# AI-Playground
+
 Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
 
 ## 🚀 What You'll Learn
@@ -13,8 +22,6 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 - **Visual Computing** - Learn how to detect objects.
 - **Model Training** - Learn how to train a model for your use case.
 
-## 🔥 Check our Warming-Up material! Where you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚 [link to those folders, containing ideally a single colab notebook or similar resource with a balanced but not overwhelming variety of examples].
-
 ## 📍 The Venue
 
 The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being decided, and we will provide more details soon.
@@ -24,8 +31,12 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 - **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
 - **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
 - **🎟️ Registration**: Free.
+- **🗣 Languages**: English and German. 
 
-[📅 Add to Calendar](#) | [🚀 Register Here](#)
+[📅 Add to Calendar](#) | [🚀 Register Here](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
+
+## 🔥 Check our Warming-Up material! 
+Here you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚. [To the Warming-up material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
 
 ## 🎤 Meet Your Mentors
 
@@ -36,17 +47,14 @@ The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Univ
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 
-# Melde dich an bei:
-scannt diesen QR-Code mit eurem Handy:
+## 🧠 Excited? Ready to play with AI? Register now! 
+Scan this QR code to register
 
 ![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
 
-oder clicken [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
+or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 ---
 
-# Fragen?
+# 🤔 Questions?
 If you have any questions, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
-
-# FAQ: Frequently Asked Questions
-
 
