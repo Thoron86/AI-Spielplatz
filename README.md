@@ -2,7 +2,8 @@
 
 Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tutorial-Kit, das Sie bei der Entwicklung der Projekte in unserem Workshop unterstützt. Besuchen Sie uns im **Mai 2025** bei **ScaDS.AI**.
 
-(The English version is [available here](#AI-Playground))
+[Unser Github-repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main).
+(Scroll down for the English version)
 
 ## 🚀 Was Sie lernen werden
 
@@ -52,12 +53,15 @@ oder klicken Sie [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/
 # 🤔 Fragen?
 Wenn Sie Fragen haben, lesen Sie unsere [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). Wenn Ihre Frage nicht dabei ist, können Sie gerne unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) verwenden.
 
-$~~~~~$
+<br>
+</br>
 
 
 # AI-Playground
 
 Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
+
+[Our Github repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main)
 
 ## 🚀 What You'll Learn
 
