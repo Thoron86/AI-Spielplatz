@@ -1,27 +1,27 @@
 # AI-Spielplatz
 
-Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Ihr Tutorial-Kit, das Sie bei der Entwicklung der Projekte in unserem Workshop unterstützt. Besuchen Sie uns im **Mai 2025** bei **ScaDS.AI**.
+Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Euer Tutorial-Kit, das Ihr euch bei der Umsetzung der Projekte in unserem Workshop unterstützt. Besucht uns im **Mai 2025** am **ScaDS.AI**.
 
 [Unser Github-repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main).
 (Scroll down for the English version)
 
-## 🚀 Was Sie lernen werden
+## 🚀 Was Du lernen wirst
 
-- **KI-Modelle** – Lernen Sie, wie Sie Text generieren und Funktionen aufrufen.
+- **KI-Modelle** – Lerne, wie Du Text generieren und Funktionen aufrufen kannst mit KI.
 
-- **Best Practices** – Lernen Sie Best Practices zum Erstellen mit GPT-Modellen.
+- **Best Practices** – Erfahre etwas über *Best Practices* im Umgang mit KI (z.B. mit bei der Arbeit mit LLMs, wie den GPT-Modellen).
 
-- **APIs** – Lernen Sie, wie Sie Text suchen, klassifizieren und vergleichen.
+- **APIs** – Lerne, wie du Text suchen, klassifizieren und vergleichen kannst.
 
-- **Audio zu Text** – Lernen Sie, wie Sie Audio in Text umwandeln.
+- **Audio zu Text** – Lerne, wie du Audio in Text umwandeln kannst.
 
-- **Visual Computing** – Lernen Sie, wie Sie Objekte erkennen.
+- **Visual Computing** – Lerne, wie Computer *sehen* und z.B. Objekte in Bildern erkennen/klassifizieren.
 
-- **Modelltraining** – Lernen Sie, wie Sie ein Modell für Ihren Anwendungsfall trainieren.
+- **Modelltraining** – Lerne beim Workshop, wie Du ein Modell für einen (eigenen) Anwendungsfall trainierst.
 
-## 📍 Der Veranstaltungsort
+## 📍 Der Veranstaltungsort ScaDS.AI Dresden/Leipzig
 
-Der AI-Playground findet bei **ScaDS.AI** statt, dem KI-Forschungszentrum der **Universität Leipzig**. Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
+Der AI-Playground findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
 
 ## 📅 Workshop-Details
 
@@ -35,7 +35,7 @@ Der AI-Playground findet bei **ScaDS.AI** statt, dem KI-Forschungszentrum der **
 ## 🔥 Schaut euch unser Warming-Up-Material an!
 Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vom Stil des Workshops machen, bevor ihr mit den Basics loslegt 📚. [Zum Warming-Up-Material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
 
-## 🎤 Lernen Sie Ihre Mentoren kennen
+## 🎤 Lernt die Mentoren kennen
 
 | Mentor | Kontakt | Biografie |
 |---------|---------|------|
@@ -44,14 +44,14 @@ Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vo
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Wissenschaftlicher Mitarbeiter und Masterstudent |
 
 ## 🧠 Aufgeregt? Bereit, mit KI zu spielen?
-Sie sind herzlich eingeladen, sich uns anzuschließen. Scannen Sie diesen QR-Code, um sich anzumelden
+Du bist herzlich eingeladen, dich uns anzuschließen und Teil des Workshops zu sein. Scanne diesen QR-Code, um dich anzumelden
 
 ![QRcode_Anmeldeformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
 
-oder klicken Sie [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
+oder klicke [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 # 🤔 Fragen?
-Wenn Sie Fragen haben, lesen Sie unsere [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). Wenn Ihre Frage nicht dabei ist, können Sie gerne unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) verwenden.
+Wenn Du Fragen hast, lies gerne unsere [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). Wenn Deine Frage nicht dabei ist, kannst Du gerne unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) verwenden.
 
 <br>
 </br>
@@ -66,15 +66,15 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 ## 🚀 What You'll Learn
 
 - **AI Models** - Learn how to generate text and call functions.
-- **Best Practices** - Learn best practices for building with GPT models.
+- **Best Practices** - Learn best practices for building e.g. with GPT models.
 - **APIs** - Learn how to search, classify, and compare text.
 - **Audio to Text** - Learn how to turn audio into text.
 - **Visual Computing** - Learn how to detect objects.
 - **Model Training** - Learn how to train a model for your use case.
 
-## 📍 The Venue
+## 📍 The Venue ScaDS.AI Dresden/Leipzig
 
-The AI-Playground will be held at **ScaDS.AI**, the AI research center of **Universität Leipzig**. The room for the workshop is still being decided, and we will provide more details soon.
+The AI-Playground will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
 
 ## 📅 Workshop Details
 
