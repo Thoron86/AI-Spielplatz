@@ -1,3 +1,6 @@
+General information on the procedure:
+We will start in week 15 by putting up posters in the Paulinum and in the buildings on Augustusplatz and using the information displays. Depending on the number of registrations, further posters will then subsequently be put up in the faculties listed below.
+
 | ✅  | Fakultät | Adresse | Wer |
 |----|-----------------------------------------------|--------------------------------------|----|
 | [ ] | Erziehungswissenschaftliche Fakultät | Marschnerstraße 31, 04109 Leipzig | Oliver |
