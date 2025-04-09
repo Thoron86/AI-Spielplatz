@@ -1,6 +1,7 @@
-# AI-Spielplatz
+# AI Spielplatz
 
-Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Euer Tutorial-Kit, das Ihr euch bei der Umsetzung der Projekte in unserem Workshop unterstützt. Besucht uns im **Mai 2025** am **ScaDS.AI**.
+Willkommen im **AI Spielplatz**, einem Workshop für AI-Interessierte. Du wolltest schon immer einmal etwas mit KI machen aber wusstest nicht, wo du anfangen solltest? Dann ist dieser Workshop genau das Richtige für Dich! 
+Beim AI Spielplatz hast du die Möglichkeit dich grundlegend und praktisch anhand eines (eigenen) Projekts in das Thema einzuarbeiten. Dies hier ist Dein Tutorial-Kit, das Dich bei der Umsetzung von Projekte(n) in unserem Workshop unterstützen wird. Besucht uns im **Mai 2025** am **ScaDS.AI**. Es folgen alle wichtigen Infos:
 
 [Unser Github-repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main).
 (Scroll down for the English version)
@@ -21,7 +22,7 @@ Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Euer Tu
 
 ## 📍 Der Veranstaltungsort ScaDS.AI Dresden/Leipzig
 
-Der AI-Playground findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
+Der AI Spieplatz findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
 
 ## 📅 Workshop-Details
 
@@ -57,9 +58,10 @@ Wenn Du Fragen hast, lies gerne unsere [FAQ](https://github.com/IvaroEkel/AI-Spi
 </br>
 
 
-# AI-Playground
+# AI Spielplatz
 
-Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
+Welcome to the **AI Spielplatz**, a workshop for AI enthusiasts. Have you always wanted to do something with AI but didn't know where to start? Then this workshop is just right for you! 
+The AI Spielplatz gives you the opportunity to familiarize yourself with the topic both fundamentally and practically by means of an (own) project. This is your tutorial kit that will support you in the implementation of projects in our workshop. Visit us in **May 2025** at **ScaDS.AI**. All important information will follow:
 
 [Our Github repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main)
 
@@ -74,7 +76,7 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 
 ## 📍 The Venue ScaDS.AI Dresden/Leipzig
 
-The AI-Playground will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
+The AI Spielplatz will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
 
 ## 📅 Workshop Details
 
