@@ -115,3 +115,6 @@ or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/em
 # 🤔 Questions?
 If you have any questions, check our [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). If your question is not there, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
 
+# Ready? Then let's go:
+- ScaDS.AI Cloud Sharelink for all your files and sharing results: [Link](https://cloud.scadsai.uni-leipzig.de/index.php/s/8TWEMX32KgfrrwF)
+- Overleaf-Template for your reports: [Link](https://www.overleaf.com/6437493389zcphbztytjhd#556a35)
