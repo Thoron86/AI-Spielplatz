@@ -1,5 +1,5 @@
-# WICHTIG! Wenn du hast schon registriert, bitte schicken uns eine Nachricht bei [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deinem email. Wir brauchen dass, so wir können euch mehr info für nächste Woche geben.
-
+# WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner email. Anschließend senden wir dir mehr Infos für nächste Woche. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
+# Anmeldung ist bereits geschlossen / Registration is already closed - thanks for all your registration :)
 
 # AI Spielplatz
 
@@ -29,12 +29,10 @@ Der AI Spieplatz findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum 
 
 ## 📅 Workshop-Details
 
-- **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. Der Tagesplan wird im April verfügbar sein.
-- **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
+- **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. [Tagesplan auf der Ai Spielplatz Eventseite](https://scads.ai/event/ai-spielplatz/)
+- **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Eingang von Uferstraße, 5.OG (Raum: Bistumshöhe)
 - **🎟️ Anmeldung**: Kostenlos.
 - **🗣 Sprachen**: Deutsch und Englisch.
-
-[📅 Zum Kalender hinzufügen](#) | [🚀 Hier anmelden](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 ## 🔥 Schaut euch unser Warming-Up-Material an!
 Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vom Stil des Workshops machen, bevor ihr mit den Basics loslegt 📚. [Zum Warming-Up-Material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
@@ -83,8 +81,8 @@ The AI Spielplatz will be held at **ScaDS.AI Leipzig**, the AI research center o
 
 ## 📅 Workshop Details
 
-- **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
-- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
+- **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule: [Ai Spielplatz Eventsite](https://scads.ai/event/ai-spielplatz/)
+- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Entrance Uferstraße, 5. Floor (Room: Bistumshöhe)
 - **🎟️ Registration**: Free.
 - **🗣 Languages**: English and German. 
 
