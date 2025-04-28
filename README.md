@@ -1,3 +1,6 @@
+# WICHTIG! Wenn du hast schon registriert, bitte schicken uns eine Nachricht bei [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deinem email. Wir brauchen dass, so wir können euch mehr info für nächste Woche geben.
+
+
 # AI Spielplatz
 
 Willkommen im **AI Spielplatz**, einem Workshop für AI-Interessierte. Du wolltest schon immer einmal etwas mit KI machen aber wusstest nicht, wo du anfangen solltest? Dann ist dieser Workshop genau das Richtige für Dich! 
