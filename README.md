@@ -1,5 +1,5 @@
 # WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner email. Anschließend senden wir dir mehr Infos für nächste Woche. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
-# Anmeldung ist bereits geschlossen / Registration is already closed - thanks for all your registration :)
+# Anmeldung ist bereits geschlossen / Registration is already closed - thanks for all your registrations :)
 
 # AI Spielplatz
 
@@ -46,6 +46,9 @@ Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vo
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Wissenschaftlicher Mitarbeiter und Masterstudent |
 
 ## 🧠 Aufgeregt? Bereit, mit KI zu spielen?
+
+### Anmeldung ist bereits geschlossen
+
 Du bist herzlich eingeladen, dich uns anzuschließen und Teil des Workshops zu sein. Scanne diesen QR-Code, um dich anzumelden
 
 ![QRcode_Anmeldeformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
@@ -86,8 +89,6 @@ The AI Spielplatz will be held at **ScaDS.AI Leipzig**, the AI research center o
 - **🎟️ Registration**: Free.
 - **🗣 Languages**: English and German. 
 
-[📅 Add to Calendar](#) | [🚀 Register Here](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
-
 ## 🔥 Check our Warming-Up material! 
 Here you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚. [To the Warming-up material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
 
@@ -101,6 +102,9 @@ Here you can find some exciting sources of inspiration and get an idea of the st
 
 
 ## 🧠 Excited? Ready to play with AI? 
+
+### Registration is already closed
+
 You're welcome to join us, scan this QR code to register
 
 ![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
