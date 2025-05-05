@@ -1,4 +1,6 @@
-# WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner email. Anschließend senden wir dir mehr Infos für nächste Woche. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
+# Treff heute: ab 16:45Uhr Uferstr. 11 (Löhrs Carré) 🧭 [Karte](https://maps.app.goo.gl/czQn7WtLkHMYzHcbA) - bis später! 🙌
+
+# 🚨 WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner Email. Anschließend senden wir dir mehr Infos für nächste Woche. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
 # Anmeldung ist bereits geschlossen / Registration is already closed - thanks for all your registrations :)
 
 # AI Spielplatz
