@@ -1,3 +1,4 @@
+# An alle die sich angemeldet haben: Ihr habt euren Platz beim AI Spielplatz. 
 # Treff heute: ab 16:45Uhr Uferstr. 11 (Löhrs Carré) 🧭 [Karte](https://maps.app.goo.gl/czQn7WtLkHMYzHcbA) - bis später! 🙌
 
 # 🚨 WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner Email. Anschließend senden wir dir mehr Infos für nächste Woche. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
