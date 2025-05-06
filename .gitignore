@@ -2,3 +2,4 @@ _rb_
 .venv
 .env
 .ipynb_checkpoints
+/venv*

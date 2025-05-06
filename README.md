@@ -1,6 +1,13 @@
-# AI-Spielplatz
+# An alle die sich angemeldet haben: Ihr habt euren Platz beim AI Spielplatz. Wenn du nicht da warst am Montag: nicht schlimm!
+# Treff am 06.05.: ab 12:45Uhr Uferstr. 11 (Löhrs Carré) 🧭 [Karte](https://maps.app.goo.gl/czQn7WtLkHMYzHcbA) 🙌
 
-Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Euer Tutorial-Kit, das Ihr euch bei der Umsetzung der Projekte in unserem Workshop unterstützt. Besucht uns im **Mai 2025** am **ScaDS.AI**.
+# 🚨 WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner Email. Anschließend senden wir dir mehr Infos. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
+# Anmeldung ist bereits geschlossen / Registration is already closed - thanks for all your registrations :)
+
+# AI Spielplatz
+
+Willkommen im **AI Spielplatz**, einem Workshop für AI-Interessierte. Du wolltest schon immer einmal etwas mit KI machen aber wusstest nicht, wo du anfangen solltest? Dann ist dieser Workshop genau das Richtige für Dich! 
+Beim AI Spielplatz hast du die Möglichkeit dich grundlegend und praktisch anhand eines (eigenen) Projekts in das Thema einzuarbeiten. Dies hier ist Dein Tutorial-Kit, das Dich bei der Umsetzung von Projekte(n) in unserem Workshop unterstützen wird. Besucht uns im **Mai 2025** am **ScaDS.AI**. Es folgen alle wichtigen Infos:
 
 [Unser Github-repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main).
 (Scroll down for the English version)
@@ -21,16 +28,14 @@ Willkommen im **AI-Playground**, einem Workshop für Anfänger. Dies ist Euer Tu
 
 ## 📍 Der Veranstaltungsort ScaDS.AI Dresden/Leipzig
 
-Der AI-Playground findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
+Der AI Spieplatz findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
 
 ## 📅 Workshop-Details
 
-- **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. Der Tagesplan wird im April verfügbar sein.
-- **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
+- **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. [Tagesplan auf der Ai Spielplatz Eventseite](https://scads.ai/event/ai-spielplatz/)
+- **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Eingang von Uferstraße 11, 5.OG (Raum: Bistumshöhe)
 - **🎟️ Anmeldung**: Kostenlos.
 - **🗣 Sprachen**: Deutsch und Englisch.
-
-[📅 Zum Kalender hinzufügen](#) | [🚀 Hier anmelden](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 ## 🔥 Schaut euch unser Warming-Up-Material an!
 Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vom Stil des Workshops machen, bevor ihr mit den Basics loslegt 📚. [Zum Warming-Up-Material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
@@ -44,6 +49,9 @@ Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vo
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Wissenschaftlicher Mitarbeiter und Masterstudent |
 
 ## 🧠 Aufgeregt? Bereit, mit KI zu spielen?
+
+### Anmeldung ist bereits geschlossen
+
 Du bist herzlich eingeladen, dich uns anzuschließen und Teil des Workshops zu sein. Scanne diesen QR-Code, um dich anzumelden
 
 ![QRcode_Anmeldeformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
@@ -57,9 +65,10 @@ Wenn Du Fragen hast, lies gerne unsere [FAQ](https://github.com/IvaroEkel/AI-Spi
 </br>
 
 
-# AI-Playground
+# AI Spielplatz
 
-Welcome to the **AI-Playground**, a workshop for beginners. This is your tutorial kit to help in the development of the projects in our workshop. Join us at **ScaDS.AI** in **May 2025**.
+Welcome to the **AI Spielplatz**, a workshop for AI enthusiasts. Have you always wanted to do something with AI but didn't know where to start? Then this workshop is just right for you! 
+The AI Spielplatz gives you the opportunity to familiarize yourself with the topic both fundamentally and practically by means of an (own) project. This is your tutorial kit that will support you in the implementation of projects in our workshop. Visit us in **May 2025** at **ScaDS.AI**. All important information will follow:
 
 [Our Github repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main)
 
@@ -74,16 +83,14 @@ Welcome to the **AI-Playground**, a workshop for beginners. This is your tutoria
 
 ## 📍 The Venue ScaDS.AI Dresden/Leipzig
 
-The AI-Playground will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
+The AI Spielplatz will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
 
 ## 📅 Workshop Details
 
-- **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule will be available in April.
-- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig.
+- **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule: [Ai Spielplatz Eventsite](https://scads.ai/event/ai-spielplatz/)
+- **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Entrance Uferstraße 11, 5. Floor (Room: Bistumshöhe)
 - **🎟️ Registration**: Free.
 - **🗣 Languages**: English and German. 
-
-[📅 Add to Calendar](#) | [🚀 Register Here](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 ## 🔥 Check our Warming-Up material! 
 Here you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚. [To the Warming-up material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
@@ -98,6 +105,9 @@ Here you can find some exciting sources of inspiration and get an idea of the st
 
 
 ## 🧠 Excited? Ready to play with AI? 
+
+### Registration is already closed
+
 You're welcome to join us, scan this QR code to register
 
 ![QRcode_Anmeldenformular](https://github.com/user-attachments/assets/efe91d0c-ad51-4978-bb8e-95d40e8b52bf)
@@ -108,3 +118,6 @@ or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/em
 # 🤔 Questions?
 If you have any questions, check our [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). If your question is not there, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
 
+# Ready? Then let's go:
+- ScaDS.AI Cloud Sharelink for all your files and sharing results: [Link](https://cloud.scadsai.uni-leipzig.de/index.php/s/8TWEMX32KgfrrwF)
+- Overleaf-Template for your reports: [Link](https://www.overleaf.com/6437493389zcphbztytjhd#556a35)
