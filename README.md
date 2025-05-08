@@ -120,4 +120,4 @@ If you have any questions, check our [FAQ](https://github.com/IvaroEkel/AI-Spiel
 # Ready? Then let's go:
 - ScaDS.AI Cloud Sharelink for all your files and sharing results: [Link](https://cloud.scadsai.uni-leipzig.de/index.php/s/8TWEMX32KgfrrwF)
 - Overleaf-Template for your reports: [Link](https://www.overleaf.com/6437493389zcphbztytjhd#556a35)
-- We'd love to hear how you liked the AI Spielplatz #1... Would you mind to complete this short [survey](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/DCjw79YAZKycd8AqgKLqNPAo) 
+- We'd love to hear how you liked the AI Spielplatz #1... Would you mind to complete this short [survey](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/TG6WyTXrtYRJCC9G8qjJFEM6) ?
