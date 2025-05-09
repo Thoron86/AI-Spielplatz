@@ -9,4 +9,5 @@ A project exploring the capabilities of the Raspberry Pi by building an interact
 * Text-to-speech output.
 * Basic graphical user interface with chat history.
 
+(If the AI model doesn't give an answer, make sure Ollama is running in the background with "ollama serve")
 **Note:** Speech recognition currently relies on an internet connection.
