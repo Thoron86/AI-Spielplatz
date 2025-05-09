@@ -5,7 +5,7 @@ A project exploring the capabilities of the Raspberry Pi by building an interact
 **Key Features:**
 
 * Voice input using microphone.
-* Integration with a local AI model (Gemma 3B via Ollama).
+* Integration with a local AI model (Gemma 3 via Ollama).
 * Text-to-speech output.
 * Basic graphical user interface with chat history.
 
